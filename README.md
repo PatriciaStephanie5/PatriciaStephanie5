@@ -1,4 +1,4 @@
-# Patricia Stephanie | Junior GTM Data Analyst | Clay & Data Specialist
+# Patricia Stephanie | GTM Data Analyst | Clay & Data Specialist
 
 **Building end-to-end GTM data pipelines that turn raw leads into revenue.**
 

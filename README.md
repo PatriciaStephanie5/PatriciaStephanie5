@@ -63,7 +63,7 @@ Developing hands-on cybersecurity capability alongside Security+ preparation and
 
 ## Data, GTM & Automation
 
-### [GTM Lead Scoring & Clay Export Pipeline](REPO_URL)
+### [GTM Lead Scoring & Clay Export Pipeline](https://github.com/PatriciaStephanie5/GTM-lead-scoring-pipeline-growthForge)
 
 An end-to-end pipeline for processing, enriching, scoring and preparing B2B prospects for GTM workflows.
 

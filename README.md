@@ -71,7 +71,7 @@ An end-to-end pipeline for processing, enriching, scoring and preparing B2B pros
 
 ---
 
-### [Market Expansion Intelligence Pipeline]()
+### [Market Expansion Intelligence Pipeline](https://github.com/PatriciaStephanie5/Market-Expansion-Intelligence-Pipeline)
 
 A data workflow for collecting and analyzing market information to support expansion and GTM decision-making.
 

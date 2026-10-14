@@ -71,7 +71,7 @@ An end-to-end pipeline for processing, enriching, scoring and preparing B2B pros
 
 ---
 
-### [Market Expansion Intelligence Pipeline](https://github.com/PatriciaStephanie5/Business-Intelligence-Project)
+### [Market Expansion Intelligence Pipeline]()
 
 A data workflow for collecting and analyzing market information to support expansion and GTM decision-making.
 
@@ -79,7 +79,7 @@ A data workflow for collecting and analyzing market information to support expan
 
 ---
 
-### [Business Intelligence Project](REPO_URL)
+### [Business Intelligence Project](https://github.com/PatriciaStephanie5/Business-Intelligence-Project)
 
 A practical analytics project demonstrating data cleaning, analysis and business intelligence reporting.
 

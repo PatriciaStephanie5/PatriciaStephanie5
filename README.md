@@ -12,6 +12,9 @@ My work focuses on turning data into useful business intelligence, automating re
 ---
 
 ## What I'm Working On
+**Explore my projects:** [View my Portfolio Index](https://github.com/PatriciaStephanie5/portfolio-index)
+
+Browse my work across cybersecurity, GTM data and lead generation, and AI-powered automation.
 
 ### Data Analytics & GTM
 
